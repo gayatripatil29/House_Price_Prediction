@@ -1,2 +1,2 @@
-# House Price Prediction-Kaggle Competition
+# House Price Prediction
 The description of the dataset is included for reference.
